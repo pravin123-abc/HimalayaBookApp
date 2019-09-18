@@ -17,6 +17,6 @@ public class GreetResource {
 		return Response.ok(msg).build();
 	}
 	public void m1(){
-
+       System.out.println("Hey Mangesh");
 	}
 }
