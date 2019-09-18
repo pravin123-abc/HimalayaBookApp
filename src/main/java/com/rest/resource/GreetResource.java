@@ -16,4 +16,7 @@ public class GreetResource {
 		String msg = "Goog Evening Pravin";
 		return Response.ok(msg).build();
 	}
+	public void m1(){
+
+	}
 }
